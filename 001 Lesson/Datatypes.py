@@ -1,3 +1,5 @@
+'''Variables and Datatypes'''
+
 # String 
 strValue = "Jaillani"
 #Int
