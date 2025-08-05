@@ -8,6 +8,13 @@ isalnum()
 isspace()
 '''
 
+word="Python3"
+print(word.isalpha())
+print(word.isalnum())
+print(word.isspace())
+print(word.isdigit())
+
+
 #7. Practical Examples of String Manipulation
 '''
 Reverse a String
